@@ -3,7 +3,7 @@ Ce projet nommé Chasse au trésor est un programme qui mêle pathfinding et al�
 
 ## Demo
 
-![Preview](https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/Projet%20Console/POA-rapport-version-console.pdf)
+![Documentation détaillé](https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/Projet%20Console/POA-rapport-version-console.pdf)
 
 ## Comment a-t-il été réalisé ?
 
