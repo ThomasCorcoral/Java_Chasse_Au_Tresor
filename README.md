@@ -2,8 +2,7 @@
 Ce projet nommé Chasse au trésor est un programme qui mêle pathfinding et aléatoire. En effet, 3 pions (nommés A B et C) apparaissent sur un plateau de jeu. On peu ensuite jouer les tours un à un. Au final un joueur arrivera sur la case du Trésor et remportera la partie. Une fois la partie terminé on peut en relancer une nouvelle. Le projet est modulable. En effet vous pourrez si vous le souhaitez via le code source. Rajouter des joueurs, des murs, augmenter la taille du terrain et même créer de nouvelles cases. 
 
 ## Demo
-
-![Documentation détaillé](https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/Projet%20Console/POA-rapport-version-console.pdf)
+[Documentation détaillée] (https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/Projet%20Console/POA-rapport-version-console.pdf "Documentation détaillée")
 
 ## Comment a-t-il été réalisé ?
 
