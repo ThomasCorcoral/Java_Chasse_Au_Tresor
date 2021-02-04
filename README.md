@@ -1,24 +1,25 @@
-## Quel est ce projet ?
-Ce projet nommé Chasse au trésor est un programme qui mêle pathfinding et aléatoire. En effet, 3 pions (nommés A B et C) apparaissent sur un plateau de jeu. On peu ensuite jouer les tours un à un. Au final un joueur arrivera sur la case du Trésor et remportera la partie. Une fois la partie terminé on peut en relancer une nouvelle. Le projet est modulable. En effet vous pourrez si vous le souhaitez via le code source. Rajouter des joueurs, des murs, augmenter la taille du terrain et même créer de nouvelles cases. 
+## What is this project?
+
+This project called Scavenger Hunt is a program that mixes pathfinding and random. Indeed, 3 pieces (named A B and C) appear on a game board. We can then play the turns one by one. In the end, a player will arrive at the Treasury box and win the game. Once the game is over, a new one can be relaunched. The project is modular. Indeed, you can if you wish via the source code. Add players, walls, increase the size of the field and even create new boxes.
 
 ## Demo
 
 ![Preview](https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/chasse_tresor.png)
 
-Vous retrouverez la documentation détaillée du projet ici : <a href="https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/Projet%20Console/POA-rapport-version-console.pdf" title="Rapport pdf">Rapport pdf</a>
+Detailed project documentation can be found here: <a href="https://github.com/ThomasCorcoral/Java_Chasse_Au_Tresor/blob/master/Projet%20Console/POA-rapport-version-console.pdf" title="Rapport pdf">Rapport pdf</a>
 
-## Comment a-t-il été réalisé ?
+## How was it done?
 
-Ce projet a été intégralement réalisé en Java sur Eclipse.
+This project was entirely carried out in Java on Eclipse.
 
-## Guide d'installation
+## Installation Guide
 
-#### Etape 1
+#### Step 1
 
-Téléchargez le start.jar
+Download the start.jar
 
-#### Etape 2
-Rendez vous dans le dossier concerné
+##### Step 2
+Go to the relevant file
 
-#### Etape 3
-Lancez le fichier (java -jar Start.jar)
+##### Step 3
+Run the file (java -jar Start.jar)
